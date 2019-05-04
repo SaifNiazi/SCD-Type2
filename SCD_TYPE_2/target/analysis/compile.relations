@@ -1,0 +1,13 @@
+products:
+   src/main/scala/com/scd/Scd2Run.scala -> target/classes/com/scd/Scd2Run$.class
+   src/main/scala/com/scd/Scd2Run.scala -> target/classes/com/scd/Scd2Run.class
+binary dependencies:
+   src/main/scala/com/scd/Scd2Run.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_211.jdk/Contents/Home/jre/lib/rt.jar
+   src/main/scala/com/scd/Scd2Run.scala -> /Users/saifniazi/.m2/repository/org/apache/spark/spark-core_2.12/2.4.0/spark-core_2.12-2.4.0.jar
+   src/main/scala/com/scd/Scd2Run.scala -> /Users/saifniazi/.m2/repository/org/apache/spark/spark-sql_2.12/2.4.0/spark-sql_2.12-2.4.0.jar
+   src/main/scala/com/scd/Scd2Run.scala -> /Users/saifniazi/.m2/repository/org/scala-lang/scala-library/2.12.3/scala-library-2.12.3.jar
+source dependencies:
+external dependencies:
+class names:
+   src/main/scala/com/scd/Scd2Run.scala -> com.scd.Scd2Run
+   src/main/scala/com/scd/Scd2Run.scala -> com.scd.Scd2Run$
